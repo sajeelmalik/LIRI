@@ -4,36 +4,22 @@ Language Interpretation and Recognition Interface: LIRI is a command line node.j
 
 * Powered by Javascript and node.js, including npm request, node-spotify-api, moment, and dotenv!
 
-## Getting Started
+## Getting Started and Prerequisites
 
-Follow the deployed project link below to utilize the application.
+Follow the instructions below to utilize the application.
  - Download node.js to properly utilize this application!
- - Once downloaded, head to your terminal and type in
+ - Once downloaded, head to your terminal and direct yourself to the location of the LIRI directory.
 
-### Deployed Project Link
-<!-- make a link to the deployed site -->
- 
-[Train Scheduler](https://sajeelmalik.github.io/Train-Scheduler)
-
-
-### Image Preview of Train Scheduler
+### Image Preview of LIRI
 <!-- take a picture of the image and add it into the readme  -->
-![Train Scheduler Preview]( "Train Scheduler")
-
-## Prerequisites
-
-The page can be run from any browser, preferably on Google Chrome!
+![LIRI Preview]( "LIRI Bot")
 
 ## Technology Used
 
-* **HTML5**
-* **CSS3** 
 * **Javascript** - the primary scripting logic powering the game
-* **jQuery** - the robust scripting library for Javascript
-* [**Firebase**](https://firebase.google.com/) - the online infrastructual database utilized
+* [**node.js**](https://nodejs.org/en/) - a versatile Javascript runtime environment that processes user inputs in terminal
 * [**Moment.js**](https://momentjs.com/docs) - a date-time Javascript library to enable ease of time manipulation
-* [**Bootstrap CDN v4.1.0**](https://getbootstrap.com/docs/4.1/getting-started/introduction/) - the open-source web styling framework used
-* [**Google Fonts**](https://fonts.google.com/) - an interactive library of licensed fonts 
+
 
 # Code Snippets
 <!-- put snippets of code inside ``` ``` so it will look like code -->
@@ -83,10 +69,8 @@ function spotifySearch(){
 # Learning points
 <!-- Learning points where you would write what you thought was helpful -->
 * Moment JS allows developers to interact more fluidly with a generally difficult-to-deal-with user input - time
-* Firebase is extremely useful for long-term cloud storage of user data
 
-
-## Authors
+## Developers
 
 * **Sajeel Malik** - *Initial work* - [GitHub](https://github.com/sajeelmalik)
 
