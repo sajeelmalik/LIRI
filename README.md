@@ -1,6 +1,6 @@
 # LIRI-Bot
 
-Language Interpretation and Recognition Interface: LIRI is a command line node.js app that takes in parameters and gives you back data. T
+Language Interpretation and Recognition Interface: LIRI is a command line node.js app that takes in parameters and gives you back data. 
 
 * Powered by Javascript and node.js, including npm request, node-spotify-api, moment, and dotenv!
 
@@ -12,7 +12,9 @@ Follow the instructions below to utilize the application.
 
 ### Image Preview of LIRI
 <!-- take a picture of the image and add it into the readme  -->
-![LIRI Preview]( "LIRI Bot")
+![LIRI Preview](https://raw.githubusercontent.com/sajeelmalik/LIRI/master/images/preview.PNG  "LIRI Bot")
+
+![LIRI Spotify Authorization](https://raw.githubusercontent.com/sajeelmalik/LIRI/master/images/Liri%20Spotify.PNG "LIRI Bot")
 
 ## Technology Used
 
@@ -68,6 +70,7 @@ function spotifySearch(){
 
 # Learning points
 <!-- Learning points where you would write what you thought was helpful -->
+* node.js proved to be a powerful tool to divvy requests and inquiries that fit the user's needs. For the future, it may be useful to spend time researching node's capabilities and more effective debugging methods
 * Moment JS allows developers to interact more fluidly with a generally difficult-to-deal-with user input - time
 
 ## Developers
