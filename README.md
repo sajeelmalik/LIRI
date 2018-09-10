@@ -10,10 +10,12 @@ Follow the instructions below to browse the application.
  - Download [*node.js*](https://nodejs.org/en/) to properly utilize this application!
  - Clone down this repository to your local desktop. All dependencies have been fulfilled.
  - Once downloaded, head to your terminal and direct yourself to the location of the LIRI directory.
+ - Type in *node liri* to run the program and see a list of commands! 
+        *See preview below*
 
 ### Preview of LIRI
 <!-- take a picture of the image and add it into the readme  -->
-![LIRI Preview](https://raw.githubusercontent.com/sajeelmalik/LIRI/master/images/preview.GIF  "LIRI Bot")
+![LIRI Preview](https://raw.githubusercontent.com/sajeelmalik/LIRI/master/images/preview.gif "LIRI Bot")
 
 The application has been authorized by Spotify!
 
