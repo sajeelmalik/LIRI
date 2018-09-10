@@ -8,6 +8,7 @@ require("dotenv").config();
 //import keys.js and node-spotify-api so that we can access the spotify export
 var keys = require("./keys.js");
 var Spotify = require('node-spotify-api');
+const chalk = require('chalk');
 
 var spotify = new Spotify(keys.spotify);
 
@@ -31,6 +32,8 @@ function game(){
       case "do-what-it-says":
         doRandom();
         break;
+      default:
+        console.log(chalk.underline("\nCommands for LIRI:")+ "\n'concert-this'\n'spotify-this-song'\n'movie-this'\n'do-what-it-says'\n\n" + chalk.bgRed("Example input command: node liri movie-this mean girls."))
     }
 
 }

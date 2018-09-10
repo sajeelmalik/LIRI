@@ -6,13 +6,16 @@ Language Interpretation and Recognition Interface: LIRI is a command line node.j
 
 ## Getting Started and Prerequisites
 
-Follow the instructions below to utilize the application.
- - Download node.js to properly utilize this application!
+Follow the instructions below to browse the application.
+ - Download [*node.js*](https://nodejs.org/en/) to properly utilize this application!
+ - Clone down this repository to your local desktop. All dependencies have been fulfilled.
  - Once downloaded, head to your terminal and direct yourself to the location of the LIRI directory.
 
-### Image Preview of LIRI
+### Preview of LIRI
 <!-- take a picture of the image and add it into the readme  -->
-![LIRI Preview](https://raw.githubusercontent.com/sajeelmalik/LIRI/master/images/preview.PNG  "LIRI Bot")
+![LIRI Preview](https://raw.githubusercontent.com/sajeelmalik/LIRI/master/images/preview.GIF  "LIRI Bot")
+
+The application has been authorized by Spotify!
 
 ![LIRI Spotify Authorization](https://raw.githubusercontent.com/sajeelmalik/LIRI/master/images/Liri%20Spotify.PNG "LIRI Bot")
 
@@ -22,6 +25,11 @@ Follow the instructions below to utilize the application.
 * [**node.js**](https://nodejs.org/en/) - a versatile Javascript runtime environment that processes user inputs in terminal
 * [**Moment.js**](https://momentjs.com/docs) - a date-time Javascript library to enable ease of time manipulation
 
+### Node Packages Utilized
+
+1. Spotify API - ``` require("node-spotify-api"); ```
+2. Request - ``` require("request"); ```
+3. Chalk - ``` require("chalk"); ```
 
 # Code Snippets
 <!-- put snippets of code inside ``` ``` so it will look like code -->
